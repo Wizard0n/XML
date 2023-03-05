@@ -1,6 +1,6 @@
 cd
-pwd
+touch
+cp
+mv
 mkdir
 ls
-touch
-history
