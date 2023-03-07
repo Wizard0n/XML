@@ -1,0 +1,15 @@
+<xml>
+      <info>Example of bug-report:</info>
+      <field>1) Bug Name: Application crashes upon clicking the SAVE button while creating a new user,</field>
+      <field>2) Bug ID: (It will be automatically created by the BUG Tracking tool once you save this bug),</field>
+      <field>3) Area Path: Specify the path to the bug,</field>
+      <field>4) Build Number: Version Number 6.0.1,</field>
+      <field>5) Severity: High/Medium/Low or 1",</field>
+      <field>6) Priority: High/Medium/Low or 1,</field>
+      <field>7) Assigned to: Developer-X,</field>
+      <field>8) Reported By: Your Name,</field>
+      <field>9) Reported On: Date,</field>
+      <field>10) Reason: Defect,</field>
+      <field>11) Status: New/Open/Active(Depends on the Tool you are using),</field>
+      <field>12) Environment: Windows 11</field>
+</xml>
