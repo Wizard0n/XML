@@ -1,6 +1,0 @@
-cd
-touch
-cp
-mv
-mkdir
-ls
